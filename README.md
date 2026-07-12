@@ -24,6 +24,7 @@ A responsive React (Vite) fitness mini-app built as part of a Full Stack Develop
 - Custom CSS (glassmorphism-inspired dark theme)
 
 ## 📂 Project Structure
+
 src/
 components/
 Header.jsx
@@ -54,11 +55,7 @@ npm run deploy
 
 ---
 Built with 💪 by [Ronak](https://github.com/Ronak861)
-Save karo (Ctrl+S), phir push:
-powershellgit add README.md
-git commit -m "Update README with correct repo details and live links"
-git push
-GitHub repo page refresh karo — clean README with dono working links dikhega ✅create 100 out of 100 read memarkdown# 🏋️ BeFit — BeFit for Health and Wealth
+BeFit — BeFit for Health and Wealth
 
 A responsive, fully interactive React (Vite) fitness dashboard built as part of a Full Stack Developer bootcamp assignment on **React Component Rendering**. Demonstrates component creation, props-based data flow, reusable UI patterns, and multi-component state management with `useState`.
 
