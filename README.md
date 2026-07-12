@@ -39,4 +39,6 @@ npm run deploy
 ```
 4. Enable GitHub Pages (Settings → Pages → source: `gh-pages` branch) if not automatic.
 
-Live at: `https://<your-username>.github.io/befit/`
+Live at
+**Live Demo:** https://ronak861.github.io/BeFit-ReactNative/
+🔗 **Netlify Mirror:** https://befit-reactnativ.netlify.app/
