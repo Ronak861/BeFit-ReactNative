@@ -37,14 +37,6 @@ App.jsx
 App.css
 main.jsx
 
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/Ronak861/BeFit-ReactNative.git
-cd BeFit-ReactNative
-npm install
-npm run dev
-```
 
 ## 📦 Build & Deploy
 
@@ -73,51 +65,9 @@ A responsive, fully interactive React (Vite) fitness dashboard built as part of 
 
 ---
 
-## ✨ Features
-
-| Component | Description |
-|---|---|
-| ⚖️ **Weight Tracker** | Increment / decrement / reset counter using `useState` |
-| 💡 **Light Toggle** | On/off switch that also drives the entire app's light/dark theme |
-| 👋 **Enter Name** | Live greeting — updates instantly as you type |
-| 📝 **Registration Form** | Name, email, password fields with real-time live preview via props |
-| 💳 **Supplement Purchase** | Card number, expiry, CVV + transaction password with show/hide toggle |
-| 👁️ **Live Preview** | Reflects registration form input in real time using lifted state |
 
 ---
 
-## 🛠️ Tech Stack
-
-- **React 18** — component-based UI
-- **Vite** — lightning-fast dev server & build tool
-- **Custom CSS** — glassmorphism-inspired dark theme, fully responsive grid layout
-- **State Management** — `useState` hooks across 6+ components
-- **Props** — parent-to-child and child-to-parent data flow (e.g. `LightToggle`, `RegistrationForm` → `App.jsx`)
-
----
-
-## 📂 Project Structure
-
-BeFit-ReactNative/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── WeightCounter.jsx
-│   │   ├── LightToggle.jsx
-│   │   ├── NameGreeter.jsx
-│   │   ├── RegistrationForm.jsx
-│   │   └── CardTransaction.jsx
-│   ├── App.jsx
-│   ├── App.css
-│   └── main.jsx
-├── index.html
-├── vite.config.js
-├── package.json
-└── README.md
-
----
 
 ## 🚀 Getting Started
 
